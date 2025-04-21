@@ -1,4 +1,4 @@
-const manifestUri = 'https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8';
+const manifestUri = 'https://github.com/bangshim/hensem/blob/main/channels/tv3/index.m3u8';
 
     function initApp() {
       shaka.polyfill.installAll();
